@@ -29,7 +29,7 @@
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://52.202.100.145:8081/repository/hello-world-snapshort/</url>
+			<url>http://52.202.100.145:8081/repository/student-web-snap/</url>
 		</snapshotRepository>
     </distributionManagement>
 
