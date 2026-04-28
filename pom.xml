@@ -25,7 +25,7 @@
     <distributionManagement>
 		<repository>
 			<id>nexus</id>
-			<url>http://44.212.59.40:8081/repository/student-web/</url>
+			<url>http://43.205.228.174:8081/repository/student/</url>
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
